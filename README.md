@@ -1,6 +1,7 @@
-# LoRaWAN Basestation Power Monitoring 📡⚡
+# LoRaWAN  Power Monitoring 📡⚡
 
-This project aims to monitor power usage on a basestation utilizing LoRaWAN technology. It employs LoRa communication, power monitoring, and relay control to monitor and manage the power system remotely.
+This project aims to monitor power usage  utilizing LoRaWAN technology. 
+It employs LoRa communication, power monitoring, and relay control to monitor and manage the power system remotely.
 
 ## Project Structure 🗂️
 
